@@ -1,0 +1,11 @@
+{
+  "name": "request-ip-nextjs",
+  "version": "0.1.0",
+  "description": "A tiny Next.js module for retrieving a request's IP address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armin Primadi <aprimadi@gmail.com>",
+  "license": "MIT"
+}
